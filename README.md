@@ -8,7 +8,7 @@
 Complaint Management System:
 https://github.com/shreya-create-glitch/Complaint-Management-System
 
-Study App
+Study App: https://github.com/shreya-create-glitch/Study-App
 
 
 ## 🌐 Socials:
