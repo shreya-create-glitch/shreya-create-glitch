@@ -5,7 +5,7 @@
 🚀 Interested in Backend Development
 
 #Main Projects:
-Study App: https://github.com/shreya-create-glitch/Study-App
+Study App: https://github.com/shreya-create-glitch/Study-Platform
 Live Link:# https://study-app-redeployee.vercel.app/debug
 
 
